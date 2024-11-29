@@ -1,8 +1,6 @@
 project_folder/
 │
 ├── app.py          # Python file for the server
-├── templates/
-│   └── index.html  # The Google login page HTML
-├── static/
-│   └── style.css   # The CSS file for styling
+├── index.html  # The Google login page HTML
+├── style.css   # The CSS file for styling
 └── data.txt        # For storing user credentials (optional)
